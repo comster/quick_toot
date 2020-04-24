@@ -10,6 +10,9 @@ Use this script to quickly send a toot to your favorite mastadon instance.
 
 Download or clone this git repo to a folder on your computer.
 
+- [Download](https://github.com/comster/quick_toot/archive/master.zip) and unzip
+- Clone with: `git clone git@github.com:comster/quick_toot.git`
+
 ## Configure
 
 Open config.js and set the following values:
