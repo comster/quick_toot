@@ -32,8 +32,12 @@ Open config.js and set the following values:
 Examples of how to run the script:
 
 - `node index.js`
-- `node index.js "This is my toot!"`
+- `node index.js 'This is my toot!'`
+- `node index.js $'My multi-line toot\nhas swagger!'`
+- `node index.js $'My cat' cat.png`
 - `npm start`
 - `npm start "Toot toot!"`
+- `npm start $'My multi-line toot\nhas swagger!'`
+- `npm start $'My cat' cat.png`
 
 You might want to run this by [using a hotkey](https://stackoverflow.com/questions/39512375/is-there-any-way-to-create-an-shortcut-desktop-to-a-node-js-npm-application).
